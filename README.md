@@ -1,0 +1,2 @@
+# Hideoutbots
+hideout bot dashboard
